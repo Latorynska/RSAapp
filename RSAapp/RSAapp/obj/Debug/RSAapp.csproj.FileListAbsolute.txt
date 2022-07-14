@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\RSAapp\RSAapp\bin\Debug\RSAapp.exe.config
+C:\Users\HP\source\repos\RSAapp\RSAapp\bin\Debug\RSAapp.exe
+C:\Users\HP\source\repos\RSAapp\RSAapp\bin\Debug\RSAapp.pdb
+C:\Users\HP\source\repos\RSAapp\RSAapp\obj\Debug\RSAapp.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\RSAapp\RSAapp\obj\Debug\RSAapp.Properties.Resources.resources
+C:\Users\HP\source\repos\RSAapp\RSAapp\obj\Debug\RSAapp.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\RSAapp\RSAapp\obj\Debug\RSAapp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RSAapp\RSAapp\obj\Debug\RSAapp.exe
+C:\Users\HP\source\repos\RSAapp\RSAapp\obj\Debug\RSAapp.pdb
+C:\Users\HP\source\repos\RSAapp\RSAapp\obj\Debug\RSAapp.Form1.resources
+C:\Users\HP\source\repos\RSAapp\RSAapp\bin\Debug\RSAapp.exe.manifest
+C:\Users\HP\source\repos\RSAapp\RSAapp\bin\Debug\RSAapp.application
+C:\Users\HP\source\repos\RSAapp\RSAapp\obj\Debug\RSAapp.exe.manifest
+C:\Users\HP\source\repos\RSAapp\RSAapp\obj\Debug\RSAapp.application
